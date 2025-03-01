@@ -3,7 +3,7 @@
 
 :seedling: I am currently learning : *Rust* and *c*
 
-:telescope: Languages
+### :telescope: Languages
 
 [![Language İcons](https://skillicons.dev/icons?i=rust,java,go,c)](https://skillicons.dev)
 
